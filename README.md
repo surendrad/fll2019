@@ -1,7 +1,7 @@
 # fll2019
 FLL 2019 Programs
 
-<b><For Mac users</b>
+<b>For Mac users</b>
 
 Please edit your .gitconfig file in your home directory to make sure your name and email are set
 
